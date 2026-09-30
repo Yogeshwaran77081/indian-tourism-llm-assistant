@@ -226,5 +226,7 @@ This project is intended for demonstration and learning purposes. Prices, timing
 
 **Yogeshwaran**
 
-- GitHub: [github.com/your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- GitHub: [https://github.com/Yogeshwaran77081]
+- LinkedIn: [www.linkedin.com/in/yogeshwaran-s-706693264]
+=======
+
